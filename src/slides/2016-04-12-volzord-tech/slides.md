@@ -15,177 +15,123 @@ template: title
 ---
 template: title
 
-## recherche
+## Recherche
 
 ---
 template: slide
 
-.left-column[
-## recherche
-### objectifs
-]
-.right-column[
+## Recherche
+### Objectifs
+
 - être consistant
 - maintenable
 - automate all the things
-]
+
 
 ---
 template: slide
 
-.left-column[
-## recherche
-### état des lieux
-]
+## Recherche
+### Etat des lieux
 
-.right-column[
 TODO
-]
+
 
 ---
 template: slide
 
-.left-column[
-## recherche
-### tests
-]
+## Recherche
+### Tests
 
-.right-column[
 - frameworks existants
 - syntaxes
 - tooling
-]
 
 ---
 template: title
 
-## développement
+## Développement
 
 ---
 template: slide
 
-.left-column[
-## développement
-### workflow
-]
+## Développement
+### Workflow
 
-.right-column[
 - review
 - release
 - refactor
-]
 
 ---
 template: slide
 
-.left-column[
-## développement
-### tests unitaires
-]
+## Développement
+### Tests unitaires
 
-.right-column[
 TODO
-]
 
 ---
 template: slide
 
-.left-column[
-## développement
-### tests visuels
-]
+## Développement
+### Tests visuels
 
-.right-column[
 TODO
-]
 
 ---
 template: slide
 
-.left-column[
-## développement
-### documentation
-]
+## Développement
+### Documentation
 
-.right-column[
 TODO
-]
 
 ---
 template: slide
 
-.left-column[
-## développement
-### es6 -> es5
-]
+## Développement
+### ES6 -> ES5
 
-.right-column[
 - linting
 - transpiling
-]
 
 ---
 template: slide
 
-.left-column[
-## développement
-### scss -> css
-]
+## Développement
+### SCSS -> CSS
 
-.right-column[
 - linting
 - compilation
 - prefixing
-]
+
 
 ---
 template: title
 
-## utilisation
+## Utilisation
 
 ---
 template: slide
 
-.left-column[
-## utilisation
-### markup
-]
+## Utilisation
+### Markup
 
-.right-column[
 - BEM
-]
-
----
-template: title
-
-## utilisation
 
 ---
 template: slide
 
-.left-column[
-## utilisation
-### plugins
-]
+## Utilisation
+### Plugins
 
-.right-column[
 - via markup
 - via javascript
-]
-
----
-template: title
-
-## utilisation
 
 ---
 template: slide
 
-.left-column[
-## utilisation
-### code applicatif
-]
+## Utilisation
+### Code applicatif
 
-.right-column[
 TODO
-]
