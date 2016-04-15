@@ -1,6 +1,6 @@
 name: title
 layout: true
-class: center, middle, template-base, template-title
+class: template-base, template-title
 
 ---
 name: slide
@@ -8,20 +8,33 @@ layout: true
 class: template-base, template-slide
 
 ---
-template: title
-
-# VOLZORD
+name: end
+layout: true
+class: template-base, template-end
 
 ---
 template: title
+class: template-title-bg1
 
+# VOLZORD
+## Framework-UI
+
+XX/YY/ZZZZ
+
+**Antonin Messinger, Guillaume Gérard, Silvère Duplan, Nicole Harris, Xavier Cambar**
+
+---
+template: title
+class: template-title-bg3
+
+# VOLZORD
 ## Recherche
 
 ---
 template: slide
 
-## Recherche
-### Objectifs
+# Recherche
+## Objectifs
 
 - être consistant
 - maintenable
@@ -31,8 +44,8 @@ template: slide
 ---
 template: slide
 
-## Recherche
-### Etat des lieux
+# Recherche
+## Etat des lieux
 
 TODO
 
@@ -40,8 +53,8 @@ TODO
 ---
 template: slide
 
-## Recherche
-### Tests
+# Recherche
+## Tests
 
 - frameworks existants
 - syntaxes
@@ -49,14 +62,16 @@ template: slide
 
 ---
 template: title
+class: template-title-bg4
 
+# VOLZORD
 ## Développement
 
 ---
 template: slide
 
-## Développement
-### Workflow
+# Développement
+## Workflow
 
 - review
 - release
@@ -65,32 +80,32 @@ template: slide
 ---
 template: slide
 
-## Développement
-### Tests unitaires
+# Développement
+## Tests unitaires
 
 TODO
 
 ---
 template: slide
 
-## Développement
-### Tests visuels
+# Développement
+## Tests visuels
 
 TODO
 
 ---
 template: slide
 
-## Développement
-### Documentation
+# Développement
+## Documentation
 
 TODO
 
 ---
 template: slide
 
-## Développement
-### ES6 -> ES5
+# Développement
+## ES6 -> ES5
 
 - linting
 - transpiling
@@ -98,8 +113,8 @@ template: slide
 ---
 template: slide
 
-## Développement
-### SCSS -> CSS
+# Développement
+## SCSS -> CSS
 
 - linting
 - compilation
@@ -108,22 +123,24 @@ template: slide
 
 ---
 template: title
+class: template-title-bg2
 
+# VOLZORD
 ## Utilisation
 
 ---
 template: slide
 
-## Utilisation
-### Markup
+# Utilisation
+## Markup
 
 - BEM
 
 ---
 template: slide
 
-## Utilisation
-### Plugins
+# Utilisation
+## Plugins
 
 - via markup
 - via javascript
@@ -131,7 +148,13 @@ template: slide
 ---
 template: slide
 
-## Utilisation
-### Code applicatif
+# Utilisation
+## Code applicatif
 
 TODO
+
+---
+template: end
+
+# Merci
+## That's all folks (for now)!
