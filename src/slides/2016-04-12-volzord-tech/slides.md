@@ -21,7 +21,7 @@ class: template-title-bg1
 
 XX/YY/ZZZZ
 
-**Antonin Messinger, Guillaume Gérard, Silvère Duplan, Nicole Harris, Xavier Cambar**
+**Antonin Messinger, Guillaume Gérard**
 
 ---
 template: title
@@ -36,9 +36,11 @@ template: slide
 # Recherche
 ## Objectifs
 
-- être consistant
-- maintenable
-- automate all the things
+- Être consistant
+
+- Maintenable
+
+- Automate all the things
 
 
 ---
@@ -56,9 +58,11 @@ template: slide
 # Recherche
 ## Tests
 
-- frameworks existants
-- syntaxes
-- tooling
+- Frameworks existants
+
+- Syntaxes
+
+- Tooling
 
 ---
 template: title
@@ -73,9 +77,11 @@ template: slide
 # Développement
 ## Workflow
 
-- review
-- release
-- refactor
+- Review
+
+- Release
+
+- Refactor
 
 ---
 template: slide
@@ -107,8 +113,9 @@ template: slide
 # Développement
 ## ES6 -> ES5
 
-- linting
-- transpiling
+- Linting
+
+- Transpiling
 
 ---
 template: slide
@@ -116,9 +123,11 @@ template: slide
 # Développement
 ## SCSS -> CSS
 
-- linting
-- compilation
-- prefixing
+- Linting
+
+- Compilation
+
+- Prefixing
 
 
 ---
@@ -142,8 +151,9 @@ template: slide
 # Utilisation
 ## Plugins
 
-- via markup
-- via javascript
+- Via Markup
+
+- Via JavaScript
 
 ---
 template: slide
@@ -157,4 +167,4 @@ TODO
 template: end
 
 # Merci
-## That's all folks (for now)!
+## That's all folks!
