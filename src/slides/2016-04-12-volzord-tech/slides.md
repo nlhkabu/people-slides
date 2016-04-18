@@ -8,11 +8,6 @@ layout: true
 class: template-base, template-slide
 
 ---
-name: end
-layout: true
-class: template-base, template-end
-
----
 template: title
 class: template-title-bg1
 
@@ -164,7 +159,8 @@ template: slide
 TODO
 
 ---
-template: end
+template: title
+class: template-title-end
 
 # Merci
 ## That's all folks!
